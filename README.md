@@ -1,2 +1,5 @@
 # Roulette-Trap
-Roulette Trap Game
+
+*Roulette Trap Game
+- by 9aylas
+- cheers
