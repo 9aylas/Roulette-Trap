@@ -1,5 +1,6 @@
 # Roulette-Trap
 
 *Roulette Trap Game
-- by 9aylas
-- cheers
+- By 9aylas.
+- Enjoy !
+*./30F
